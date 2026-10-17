@@ -4,7 +4,7 @@
 
 Meu portfólio pessoal, feito com **HTML, CSS e JavaScript** puro e publicado com o **GitHub Pages**.
 
-🔗 **Site no ar:** inserir link ainda
+🔗 **Site no ar:** [inserir link ainda](https://yalicerm.github.io/ligaFemina--Projetos/)
 
 ## Seções
 
