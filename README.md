@@ -1,10 +1,8 @@
-# LigaFeminina - Projetos
-
 # Portfólio 2026 — Alice Resende
 
 Meu portfólio pessoal, feito com **HTML, CSS e JavaScript** puro e publicado com o **GitHub Pages**.
 
-🔗 **Site no ar:** [Portifólio](https://yalicerm.github.io/ligaFemina--Projetos/)
+🔗 **Site no ar:** [Portifólio 2026](https://yalicerm.github.io/yalicerm/).
 
 ## Seções
 
